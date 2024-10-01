@@ -1,3 +1,4 @@
+<img src="https://github.com/ROHIT-dangwal/ROHIT-dangwal/blob/main/Banner.gif" alt="banner" align="center" width="100%" >
 <h1 align="center">Hey 👋  I am Rohit</h1>
 
 ###
