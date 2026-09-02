@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I am currently a Third year student doing computer science and enginnering from maharaja agrasen institute of technolgy. <br>✨ Creating bugs since 2023<br>📚 I'm currently learning web development<br>
+<p align="left">I am currently a Final year student doing computer science and enginnering from maharaja agrasen institute of technolgy. <br>✨ Creating bugs since 2023<br>📚 I'm currently learning web development<br>
 
 ###
 
